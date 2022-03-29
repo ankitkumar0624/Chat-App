@@ -8,7 +8,7 @@ This is a React js and firebase based Chat web-app.
 
 ## Contributors
 
-## <a href="https://github.com/rohit01010">Rohit Bhagat</a>
+## <a href="https://github.com/ankitkumar0624/">Ankit Kumar</a>
 
 ## How to run it on your PC
 
@@ -37,4 +37,4 @@ This will download all the node modules required
 
 #### Star this repository if you like this project
 
-#### If you have any doubts and suggesstion regarding this project feel free to contact me at <a href="https://www.linkedin.com/in/rohit-bhagat-2833801b1/">https://www.linkedin.com/in/rohit-bhagat-2833801b1/</a>
+
